@@ -1,7 +1,7 @@
 name: Cureface
 favicon: null
-layout_spectrum: 0.9259500324260443
-typography_spectrum: 0.04621215956285596
+layout_spectrum: 0.81271
+typography_spectrum: 0.82247
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.30590772931464016
-  lightness: 0.26250256365165114
-  saturation: 0.9041376158129424
-  rhythmicContrast: 0.5186002813279629
+  brandStrength: 0.5625
+  lightness: 0.5
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
