@@ -13,14 +13,14 @@ description: >-
   much unfocused feedback can freeze our projects in analysis paralysis. To meet
   these challenges, try testing your content concepts—and start testing them
   early in your projects.
-datePublished: '2016-07-25T21:45:43.636Z'
-dateModified: '2016-07-25T21:44:47.284Z'
+datePublished: '2016-07-25T22:30:11.005Z'
+dateModified: '2016-07-25T21:55:07.401Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-07-25-testing-content-concepts.md
 authors: []
 publisher: {}
-sourcePath: _posts/2016-07-25-testing-content-concepts.md
 starred: false
 url: testing-content-concepts/index.html
 _type: Blurb
@@ -82,6 +82,5 @@ The overall purpose of testing a content concept is to figure out what content s
 When choosing the samples of content you'll test, use the sampling method that makes the most sense for your project and testing goals. (See "What Content Should I Test?")
 
 1. Create concepts that explore the right qualities.
-
 
 [0]: http://redish.net/writingfortheweb/index.php/2007/06/10/usability-testing-be-sure-to-test-content-as-well-as-navigation/#more-25 "Usability Testing: Be Sure to Test Content as Well as Navigation"
