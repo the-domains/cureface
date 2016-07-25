@@ -13,15 +13,15 @@ description: >-
   much unfocused feedback can freeze our projects in analysis paralysis. To meet
   these challenges, try testing your content concepts—and start testing them
   early in your projects.
-datePublished: '2016-07-25T21:39:12.182Z'
-dateModified: '2016-07-25T21:39:04.499Z'
+datePublished: '2016-07-25T21:45:43.636Z'
+dateModified: '2016-07-25T21:44:47.284Z'
 title: ''
 author: []
 via: {}
 authors: []
 publisher: {}
-starred: false
 sourcePath: _posts/2016-07-25-testing-content-concepts.md
+starred: false
 url: testing-content-concepts/index.html
 _type: Blurb
 
