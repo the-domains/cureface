@@ -2,12 +2,13 @@ name: Cureface
 favicon: null
 layout_spectrum: 0.81271
 typography_spectrum: 0.82247
+title: 'Cureface – Design Connected Experiences '
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-67115013-1
   facebook: null
   twitter: null
 opengraph:
