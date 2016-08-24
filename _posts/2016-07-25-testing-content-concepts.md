@@ -13,8 +13,8 @@ description: >-
   much unfocused feedback can freeze our projects in analysis paralysis. To meet
   these challenges, try testing your content concepts—and start testing them
   early in your projects.
-datePublished: '2016-07-26T15:46:04.130Z'
-dateModified: '2016-07-26T15:45:35.163Z'
+datePublished: '2016-08-24T21:55:25.963Z'
+dateModified: '2016-07-27T07:00:15.659Z'
 title: ''
 author: []
 via: {}
